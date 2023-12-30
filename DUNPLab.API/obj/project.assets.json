@@ -4905,11 +4905,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\New folder\\dunplab\\DUNPLab.API\\DUNPLab.API.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\test\\DUNPLab.API\\DUNPLab.API.csproj",
       "projectName": "DUNPLab.API",
-      "projectPath": "C:\\Users\\PC\\Desktop\\New folder\\dunplab\\DUNPLab.API\\DUNPLab.API.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\test\\DUNPLab.API\\DUNPLab.API.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\New folder\\dunplab\\DUNPLab.API\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\test\\DUNPLab.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

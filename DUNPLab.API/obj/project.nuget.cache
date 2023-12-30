@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p+YhvR/3iVXCKlug8CAAUx7Wcb7ztiODllZIcOvSqSfVKGfws2Xeri6LQXbjr/ZDrBB/8f7hxOJfikdZLv0fqw==",
+  "dgSpecHash": "cvhU/i6ITMG1jkF82TLTl5O6wHI9hPw6TayNeVS9wUIFg7WonIhZZwkalwPO5r5jhISYr+88bV8ZossB8ajWvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\New folder\\dunplab\\DUNPLab.API\\DUNPLab.API.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\test\\DUNPLab.API\\DUNPLab.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
